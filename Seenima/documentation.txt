@@ -1,0 +1,30 @@
+//dependencies used
+
+//FOR FONTS
+npm install expo-font
+npm install @expo-google-fonts/lato
+npm install @expo-google-fonts/oswald
+
+//FOR BOTTOM NAV
+npm install @react-navigation/native
+npm install @react-navigation/bottom-tabs
+npm install @react-navigation/material-bottom-tabs
+
+//FOR STACK NAV
+npm install @react-navigation/stack
+npx expo install react-native-screens react-native-safe-area-context
+npx expo install @react-native-masked-view/masked-view@0.2.7 react-native-gesture-handler@~2.5.0
+
+
+npm install 
+npm install 
+npm install 
+npm install 
+npm install 
+npm install 
+
+
+
+
+
+
